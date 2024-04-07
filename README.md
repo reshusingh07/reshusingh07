@@ -13,7 +13,7 @@ help. Excited to connect with fellow enthusiasts and explore collaborative oppor
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h1 align="left"> 💻Tech Stack:</h1>
 <br>
-<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=c,cpp,bootstrap,blender,css,docker,git,github,html,java,js,linux,mongodb,nodejs,py,vscode" alt="My Skills"></a></p>
+<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=c,cpp,bootstrap,css,docker,git,github,html,java,js,linux,mongodb,nodejs,py,vscode" alt="My Skills"></a></p>
 
 <br>
 
