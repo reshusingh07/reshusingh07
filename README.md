@@ -3,9 +3,7 @@
 
 #  <img src = "https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=2000&pause=380&color=02A8F7&center=true&vCenter=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Reshu"/>
 <img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50" height="50" align="right"  />
-`I'm a Second-year undergraduate at Teerthanker Mahaveer University, I'm working on personal projects to sharpen my skills and learning new tech stacks that would help in my personal growth and building my projects. personal growth and
-building my projects. I love problem-solving and am always ready to
-help. Excited to connect with fellow enthusiasts and explore collaborative opportunities!
+ Hello! Everyone, I'm Reshu singh, a Second-year undergraduate at Teerthanker Mahaveer University, I'm working on personal projects to sharpen my skills and learning new tech stacks that would help in my personal growth and building my projects. I love problem-solving and I enjoy it. I'm Always Excited to connect with fellow enthusiasts and explore collaborative opportunities!
 
 <br>
 
